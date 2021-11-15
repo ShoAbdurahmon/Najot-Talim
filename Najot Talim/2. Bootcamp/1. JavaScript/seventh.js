@@ -40,6 +40,7 @@ username.push(create_username(1,"Abdurahmon" ,"shohusniddinov@gmail.com",1234))
 create_user_id(10)
 create_name(sanoq)
 create_mail(sanoq)
+console.log("hello world")
 
 
 
